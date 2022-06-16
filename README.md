@@ -7,7 +7,7 @@ you can contact me on my portfolio website which is available on my GitHub.😆
 
 <p align="center"> 
 <a href="https://instagram.com/Am.js__"><img src="https://img.shields.io/badge/| Instagram-D300C5?style=for-the-badge&logo=Instagram&logoColor=white" alt="Linkedin"  style=" border-radius:10px" /></a>
-<a href="https://@gmail.com/"><img src="https://img.shields.io/badge/-📞| phone-g?style=for-the-badge&logoColor=white" alt="📞" style=" border-radius:10px" /></a>
+<a href="tel:09944373301"><img src="https://img.shields.io/badge/-📞| phone-g?style=for-the-badge&logoColor=white" alt="📞" style=" border-radius:10px" /></a>
 </p>
 
 # 💻Tech Stack
