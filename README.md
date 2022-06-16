@@ -20,3 +20,12 @@ you can contact me on my portfolio website which is available on my GitHub.😆
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  style=" border-radius:10px" />
  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" style=" border-radius:10px" />
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style=" border-radius:10px"  />
+</div>
+
+# 📊GitHub Stats :
+
+ <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=amanjmoezi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanjmoezi&theme=tokyonight" />
+ <img src="https://github-profile-trophy.vercel.app/?username=amanjmoezi&theme=tokyonight" />
+</div>
