@@ -6,7 +6,7 @@ you can contact me on my portfolio website which is available on my GitHub.😆
 ## 🌐Socials
 
 <p align="center"> 
-<a href="https://instagram.com/Am.js__"><img src="https://img.shields.io/badge/Instagram-D300C5?style=for-the-badge&logo=Instagram&logoColor=white" alt="Linkedin"  /></a>
+<a href="https://instagram.com/javascript.land"><img src="https://img.shields.io/badge/Instagram-D300C5?style=for-the-badge&logo=Instagram&logoColor=white" alt="Linkedin"  /></a>
 <a href="https://api.whatsapp.com/send/?phone=%2B989944373301&text=%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%D9%82%D8%AA%D9%88%D9%86%20%D8%A8%D8%AE%DB%8C%D8%B1"><img src="https://img.shields.io/badge/-whatsapp-g?style=for-the-badge&logo=whatsapp&logoColor=white" alt="📞" /></a>
 </p>
 
@@ -21,6 +21,23 @@ you can contact me on my portfolio website which is available on my GitHub.😆
  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"  />
  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"  />
 </div>
+
+# 🤞my projects
+
+<div >
+
+  ### A robot that helps like Apple Siri
+
+  <a href="https://github.com/amanjmoezi/B-BOT">B-bot</a>
+  
+
+  <a href="">B-bot</a>
+  <a href="">B-bot</a>
+  <a href="">B-bot</a>
+  <a href="">B-bot</a>
+</div>
+
+# 
 
 # 📊GitHub Stats :
 
